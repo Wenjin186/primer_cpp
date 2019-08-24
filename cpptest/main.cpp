@@ -48,6 +48,7 @@ void nothing(){
 decltype(nothing) *ret_function2();
 void (*ret_function2())(){
     return nothing;
+    
 }
 
 
